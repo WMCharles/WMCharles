@@ -17,7 +17,7 @@ Hello, my name is Charles Wafula I am currently a student at [Moringa School](ht
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/WMCharles/WMCharles">
     <img src="https://komarev.com/ghpvc/?username=wmcharles" alt="page views" />
   </a>
