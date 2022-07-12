@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Charles
 
-<!--
-**WMCharles/WMCharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Charles Wafula I currently a student at [Moringa School](https://moringaschool.com/) majoring in Software Development. I am a full-stack software developer with strong background in  data structures and algorithms, data analysis, and machine learning.  My technology stack involves Python/Django?Flask, javascript, and HTML/CSS/Bootstrap. Besides programming, I have an immense interest in anime, MMA, and music.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning React and Ruby on Rails
+- 💬 Brainstorm with me over tech, career, and music 
+- 📫 How to reach me: wafulacharles47@gmail.com
+- 😄 Pronouns: Programmer/He/Him/His
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools:** 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
