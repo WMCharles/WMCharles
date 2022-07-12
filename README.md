@@ -17,6 +17,27 @@ Hello, my name is Charles Wafula I am currently a student at [Moringa School](ht
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
+<p align="left">
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+  <a href="https://macropower.readthedocs.io/en/latest">
+    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/macropower?logo=read-the-docs">
+  </a>
+  <a href="https://stackoverflow.com/users/4868262">
+    <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/4868262?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://reddit.com/u/macropower">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+</p>
+
 ![Charles' Github Stats](https://github-readme-stats.vercel.app/api?username=wmcharles&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmcharles&hide=TeX&layout=compact)
 
