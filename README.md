@@ -16,3 +16,9 @@ Hello, my name is Charles Wafula I am currently a student at [Moringa School](ht
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+## 📜 Contributions
+  
+
+<img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://activity-graph.herokuapp.com/graph?username=WMCharles&theme=dracula">
+</p>
