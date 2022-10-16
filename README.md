@@ -2,7 +2,7 @@
 
 Hello, my name is Charles Wafula I am currently a student at [Moringa School](https://moringaschool.com/) doing Software Engineering. I am a full-stack software developer with strong background in  data structures and algorithms, data analysis, and machine learning.  My technology stack involves Python/Django/Flask, Javascript/React, and HTML/CSS/Bootstrap. Besides programming, I am interested in anime, MMA, and music.
 
-- 🔭 I’m currently learning React and Ruby on Rails
+- 🔭 I’m currently learning Ruby on Rails
 - 💬 Brainstorm with me over tech, career, and music 
 - 📫 How to reach me: wafulacharles47@gmail.com
 - 😄 Pronouns: Programmer/He/Him/His
