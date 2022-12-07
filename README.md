@@ -21,5 +21,4 @@ Hello, my name is Charles Wafula I am currently a student at [Moringa School](ht
 ## 📜 Contributions
   
 
-<img alt="'Contributions' Please refresh the page if the graph didnt show up" src="https://activity-graph.herokuapp.com/graph?username=WMCharles&theme=dracula">
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WMCharles&theme=gotham)](https://github.com/WMCharles/github-readme-activity-graph)
