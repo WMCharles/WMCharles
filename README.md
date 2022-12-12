@@ -12,7 +12,7 @@ Hello, my name is Charles Wafula I am currently a student at [Moringa School](ht
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/react-react-blue?style=social&logo=appveyor)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Custom badge](https://img.shields.io/endpoint?color=red&label=%20&logo=ruby&style=social))&nbsp;&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
