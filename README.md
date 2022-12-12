@@ -16,7 +16,7 @@ Hello, my name is Charles Wafula I am currently a student at [Moringa School](ht
 ![FastAPI](https://img.shields.io/badge/-fastapi-green?logo=fastapi&style=social)&nbsp;&nbsp;
 ![Flask](https://img.shields.io/badge/flask-black?logo=flask&style=social)&nbsp;&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-red?logo=ruby&style=social)&nbsp;&nbsp;
-![Rails](https://img.shields.io/badge/-ruby-on-rails?logo=ruby-on-rails&style=social)&nbsp;&nbsp;
+![Rails](https://img.shields.io/badge/-rubyonrails-red?logo=rubyonrails&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
