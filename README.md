@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Charles
 
-I am a full-stack software developer with strong background in  data structures and algorithms, data analysis, and machine learning.  My technology stack involves Python/Django/Flask, Javascript/React, and HTML/CSS/Bootstrap. Besides programming, I am interested in anime, MMA, and music.
+I am a Full-Stack Software Developer with strong background in  data structures and algorithms, data analysis, and machine learning.  My technology stack involves Python/Django/Flask, Javascript/React, and HTML/CSS/Bootstrap. Besides programming, I am interested in anime, MMA, and music.
 
 - 🔭 I’m currently looking to collaborate on projects
 - 💬 Brainstorm with me over tech, career, and music 
