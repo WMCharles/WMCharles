@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Charles Wafula
+### Hi there 👋 I'm Charles
 
 I am a Full-Stack Software Developer with strong background in  data structures and algorithms, data analysis, and machine learning.  My technology stack involves Python/Django/Flask, Javascript/React, and HTML/CSS/Bootstrap. Besides programming, I am interested in anime, MMA, and music.
 
