@@ -5,7 +5,6 @@ I am a Full-Stack Software Developer with strong background in  data structures 
 - 🔭 I’m currently looking to collaborate on projects
 - 💬 Brainstorm with me over tech, career, and music 
 - 📫 How to reach me: wafulacharles47@gmail.com
-- 😄 Pronouns: Programmer/He/Him/His
 
 **Languages and Tools:** 
 
