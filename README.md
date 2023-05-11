@@ -1,11 +1,3 @@
-### Hi there 
-
-I am a Full-Stack Software Developer with strong background in  data structures and algorithms, data analysis, and machine learning.  My technology stack involves Python/Django/Flask, Javascript/React, and HTML/CSS/Bootstrap. Besides programming, I am interested in anime, MMA, and music.
-
-- 🔭 I’m currently looking to collaborate on projects
-- 💬 Brainstorm with me over tech, career, and music 
-- 📫 How to reach me: wafulacharles47@gmail.com
-
 **Languages and Tools:** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
