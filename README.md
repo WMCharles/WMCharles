@@ -1,4 +1,4 @@
-**Languages and Tools:** 
+**Tools:** 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-blue?logo=react&style=social)&nbsp;&nbsp;
