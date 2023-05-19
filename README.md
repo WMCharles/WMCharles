@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-## 📜 Contributions
+## Contributions
   
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=WMCharles&theme=gotham)](https://github.com/WMCharles/github-readme-activity-graph)
